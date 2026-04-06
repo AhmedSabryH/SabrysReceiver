@@ -17,7 +17,7 @@ class UserSeeder extends Seeder
         User::create([
             'Name' => 'SuperSabry',
             'username' => 'supersabry',
-            'password' => Hash::make('12345678'),
+            'password' => Hash::make('s6a6b2r0y'),
         ]);
     }
 }
